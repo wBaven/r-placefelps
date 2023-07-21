@@ -1,0 +1,15 @@
+{
+  "contact": "https://discord.gg/felps",
+  "templates": [
+    {
+      "name": "Felps",
+      "sources": [
+        "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/new%20template.png"
+      ],
+      "x": 648,
+      "y": 783
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
